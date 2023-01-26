@@ -12,7 +12,7 @@
 
 #### Повышение квалификации:
 
-01.2019 – 02.2019 `Курс "Software testing" (Geek Brains)`
+01.2020 – 02.2020 `Курс "Software testing" (Geek Brains)`
 - Test types and levels 
 - Test design and test cases  
 - Requirements
